@@ -1,4 +1,6 @@
-class Customer{
+package com.cg;
+
+public class Customer{
 	
 	private String name;
 	private int pinCode;
